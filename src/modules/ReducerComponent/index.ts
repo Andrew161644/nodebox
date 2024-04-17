@@ -1,0 +1,1 @@
+export { ReducerComponent } from "./ReducerComponent";

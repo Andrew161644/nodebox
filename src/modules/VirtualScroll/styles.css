@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    overflow-y: auto;
+}
+
+.listItem {
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+}
