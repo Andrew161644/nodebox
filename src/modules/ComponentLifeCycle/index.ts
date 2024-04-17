@@ -1,1 +1,0 @@
-export { ComponentLifeCyclesWrapper } from "./ComponentLifeCyclesWrapper";

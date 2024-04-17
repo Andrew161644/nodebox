@@ -1,6 +1,6 @@
 import React, { FC, useEffect, memo } from "react";
 
-const SomeComponent: FC<{ input: number }> = ({ input }) => {
+export const SomeComponent: FC<{ input: number }> = ({ input }) => {
   console.log("componentWillMount");
   useEffect(() => {
     console.log("Component did mount");

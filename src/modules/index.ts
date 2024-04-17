@@ -1,4 +1,4 @@
-export { ComponentLifeCyclesWrapper } from "./ComponentLifeCycle";
+export { ComponentLifeCyclesWrapper } from "./LifeCycle";
 export { ReducerComponent } from "./ReducerComponent";
 export { TodoList } from "./VirtualScroll";
 export { ChacheDataWrapper } from "./CacheData";

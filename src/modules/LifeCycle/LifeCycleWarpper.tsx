@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { SomeComponentShouldUpdate } from "./ComponentLifeCycles";
+import { SomeComponentShouldUpdate } from "./SomeComponent";
 
 export const ComponentLifeCyclesWrapper = () => {
   const [btnClicked, setBtnClicked] = useState<number>(0);

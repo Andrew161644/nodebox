@@ -1,2 +1,2 @@
 export { useDebounce } from "./useDebounce";
-export { useChached } from "./useChached";
+export { useChached } from "./useCached";
